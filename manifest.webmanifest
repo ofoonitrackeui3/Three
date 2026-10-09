@@ -1,0 +1,18 @@
+{
+  "id": "./index.html",
+  "name": "درس عفونت — جلسات ۲ و ۳",
+  "short_name": "عفونت",
+  "description": "جزوه عفونت — جلسه دوم (باکتریال) و جلسه سوم (ویرال، قارچی، انگلی)",
+  "lang": "fa",
+  "dir": "rtl",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#0b1020",
+  "theme_color": "#0f172a",
+  "icons": [
+    { "src": "./icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any maskable" },
+    { "src": "./icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable" }
+  ]
+}
